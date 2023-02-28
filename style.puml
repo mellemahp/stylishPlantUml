@@ -1,0 +1,20 @@
+@startuml 
+
+skinparam {
+  DPI 90 
+  Shadowing False 
+  DefaultFontName Arial 
+  linetype polyline
+}
+
+skinparam CircledCharacter {
+  FontName Monospace
+  FontSize 10 
+  FontStyle bold
+  FontColor #777777
+}
+
+hide empty methods 
+hide empty attributes
+
+@enduml
