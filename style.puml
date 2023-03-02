@@ -32,6 +32,9 @@ skinparam CircledCharacter {
   FontColor #777777
 }
 
+skinparam ClassBorderColor<<emphasized>> red 
+skinparam ClassBorderThickness<<emphasized>> 3
+
 hide empty methods 
 hide empty attributes
 
