@@ -4,6 +4,8 @@ skinparam {
   DPI 200 
   Shadowing False 
   DefaultFontName Arial 
+  ArrowThickness 2
+  BorderThickness 1
   linetype polyline
 }
 
