@@ -9,6 +9,21 @@ skinparam {
   linetype polyline
 }
 
+skinparam Class {
+  Padding 20 
+  FontSize 16
+  
+  header {
+    BackgroundColor #BFBFBF
+  }
+}
+
+skinparam Note {
+  BackgroundColor #FFE296
+  FontColor #8E724B
+  BorderColor #8E724B
+}
+
 skinparam CircledCharacter {
   FontName Monospace
   FontSize 10 
