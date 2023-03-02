@@ -12,6 +12,7 @@ skinparam {
 skinparam Class {
   Padding 20 
   FontSize 16
+  FontColor #595959
   
   header {
     BackgroundColor #BFBFBF
