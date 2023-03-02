@@ -1,7 +1,7 @@
 @startuml 
 
 skinparam {
-  DPI 90 
+  DPI 200 
   Shadowing False 
   DefaultFontName Arial 
   linetype polyline
